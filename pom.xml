@@ -6,4 +6,5 @@
   <groupId>com.cyphlens</groupId>
   <artifactId>core</artifactId>
   <version>1.0.0</version>
+  <packaging>aar</packaging>
 </project>
